@@ -1,2 +1,2 @@
 # LoginPage
- Pagina de login.
+ Prototipo de uma pagina de login.
